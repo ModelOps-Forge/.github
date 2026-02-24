@@ -18,7 +18,7 @@ En este "Forge", aplicamos principios de ingeniería a cada etapa del ciclo de v
 
 ### 📊 Regresión & Análisis Estadístico (Scikit-Learn)
 * **[Saratoga-Housing-Market](link):** Predicción de precios inmobiliarios utilizando técnicas de regularización (Ridge/Lasso) y manejo de variables categóricas.
-* **[diamonds-valuation]((https://github.com/ModelOps-Forge/diamonds-valuation)):** Un pipeline completo de regresión multivariable para la tasación de gemas basada en las "4C".
+* **[diamonds-valuation](https://github.com/ModelOps-Forge/diamonds-valuation):** Un pipeline completo de regresión multivariable para la tasación de gemas basada en las "4C".
 * **[Titanic-Survival-Logic](link):** Clasificación binaria con un enfoque fuerte en Feature Engineering y limpieza de datos faltantes.
 
 ### 👁️ Deep Learning & Vision (TensorFlow / Keras)
