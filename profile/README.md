@@ -34,5 +34,5 @@ En este "Forge", transformamos la experimentación en activos de software median
 | **Data Ops** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Workflow** | Git (GitFlow), Docker, Markdown |
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > **Donde el dato crudo se templa y el software se forja bajo el rigor de la ingeniería.*
