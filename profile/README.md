@@ -35,4 +35,4 @@ En este "Forge", transformamos la experimentación en activos de software median
 | **Workflow** | Git (GitFlow), Docker, Markdown |
 
 > [!IMPORTANT]
-> **"In data we trust, in code we build."** — *The ModelOps-Forge Philosophy.*
+> **Donde el dato crudo se templa y el software se forja bajo el rigor de la ingeniería.*
