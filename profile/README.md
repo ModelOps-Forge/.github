@@ -29,6 +29,9 @@ En este "Forge", transformamos la experimentación en activos de software median
 * **[Image-Classification-Core](https://github.com/ModelOps-Forge) 🚧 (En forja...):** Diseño de Redes Neuronales Convolucionales (CNN) con capas de regularización y *dropout* para el reconocimiento preciso de patrones visuales.
 * **[Neural-Arch-Lab](https://github.com/ModelOps-Forge) 🚧 (En forja...):** Laboratorio de experimentación sobre la sensibilidad de arquitecturas profundas ante variaciones en hiperparámetros y optimizadores.
 
+### 🤖 Generative AI & Agentic Systems (Ollama / LangChain)
+Ollama-Simposio: Framework de análisis estratégico multi-agente. Implementa una arquitectura de debate dialéctico (Tesis/Antítesis/Síntesis) para la resolución de dilemas complejos mediante modelos locales, eliminando sesgos de neutralidad.
+
 ## 🛠️ Stack Tecnológico
 
 | Área | Herramientas |
@@ -37,5 +40,6 @@ En este "Forge", transformamos la experimentación en activos de software median
 | **ML Frameworks** | Scikit-Learn, TensorFlow, Keras |
 | **Data Ops** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Workflow** | Git (GitFlow), Docker, Markdown |
+| **Generative AI** | Ollama, Prompt Engineering, Multi-Agent Orchestration |
 
 > **Donde el dato crudo se templa y el software se forja bajo el rigor de la ingeniería.*
