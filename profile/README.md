@@ -30,7 +30,7 @@ En este "Forge", transformamos la experimentación en activos de software median
 * **[Neural-Arch-Lab](https://github.com/ModelOps-Forge) 🚧 (En forja...):** Laboratorio de experimentación sobre la sensibilidad de arquitecturas profundas ante variaciones en hiperparámetros y optimizadores.
 
 ### 🤖 Generative AI & Agentic Systems (Ollama / LangChain)
-Ollama-Simposio: Framework de análisis estratégico multi-agente. Implementa una arquitectura de debate dialéctico (Tesis/Antítesis/Síntesis) para la resolución de dilemas complejos mediante modelos locales, eliminando sesgos de neutralidad.
+* **[Ollama-Simposio](https://github.com/ModelOps-Forge) 🚧 (En forja...):** Framework de análisis estratégico multi-agente. Implementa una arquitectura de debate dialéctico (Tesis/Antítesis/Síntesis) para la resolución de dilemas complejos mediante modelos locales, eliminando sesgos de neutralidad.
 
 ## 🛠️ Stack Tecnológico
 
